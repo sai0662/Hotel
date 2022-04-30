@@ -1,0 +1,80 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "sai"
+    },
+    {
+      "_id": "1",
+      "name": "Ellaa Hotel",
+      "image": "/images/1.jpeg",
+      "place": "Hyderabad",
+      "price": "$60",
+      "id": 2
+    },
+    {
+      "_id": "1",
+      "name": "Ellaa Hotel",
+      "image": "/images/1.jpeg",
+      "place": "Hyderabad",
+      "price": "$60",
+      "id": 3
+    },
+    {
+      "_id": "1",
+      "name": "Ellaa Hotel",
+      "image": "/images/1.jpeg",
+      "place": "Hyderabad",
+      "price": "$60",
+      "id": 4
+    },
+    {
+      "_id": "1",
+      "name": "Ellaa Hotel",
+      "image": "/images/1.jpeg",
+      "place": "Hyderabad",
+      "price": "$60",
+      "id": 5
+    },
+    {
+      "_id": "1",
+      "name": "Ellaa Hotel",
+      "image": "/images/1.jpeg",
+      "place": "Hyderabad",
+      "price": "$60",
+      "id": 6
+    },
+    {
+      "_id": "1",
+      "name": "Ellaa Hotel",
+      "image": "/images/1.jpeg",
+      "place": "Hyderabad",
+      "price": "$60",
+      "id": 7
+    },
+    {
+      "_id": "1",
+      "name": "Ellaa Hotel",
+      "image": "/images/1.jpeg",
+      "place": "Hyderabad",
+      "price": "$60",
+      "id": 8
+    },
+    {
+      "_id": "1",
+      "name": "Ellaa Hotel",
+      "image": "/images/1.jpeg",
+      "place": "Hyderabad",
+      "price": "$60",
+      "id": 9
+    },
+    {
+      "_id": "1",
+      "name": "Ellaa Hotel",
+      "image": "/images/1.jpeg",
+      "place": "Hyderabad",
+      "price": "$60",
+      "id": 10
+    }
+  ]
+}

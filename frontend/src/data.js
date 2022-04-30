@@ -63,5 +63,12 @@ export default {
         place:'Hyderabad',
         price:'$50'
     },
+    {
+        _id:'10',
+        name:'taz Hotel',
+        image:'/images/3.jpeg',
+        place:'Hyderabad',
+        price:'$100'
+    },
 ]
 }

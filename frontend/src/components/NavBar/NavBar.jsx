@@ -48,8 +48,8 @@ function NavBar() {
               </Link>
             </li>
             <li className="nav-item2">
-              <Link to="/Login" className="Sign-in" onClick={closeMobileMenu}>
-                Login
+              <Link to="/signin" className="Sign-in" onClick={closeMobileMenu}>
+                Signin
               </Link>
               <Link
                 to="/Properties"
